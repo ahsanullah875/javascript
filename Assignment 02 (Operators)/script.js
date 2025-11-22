@@ -28,19 +28,59 @@ true
 true && true || true && true || false
 true || true || false 
 true 
-console.log(20 / 4 === 5 && 3 + 5 === 8 || 8 === 8 && 'yes' !== 'YES' || 12 === '12')
+
 // 6 > 5 && 4 * 2 !== 10 || 7 === 6 + 1 && 'no' === 'yes' || 100 !== 100
+true && true || true && true || false
+true || true || false
+true
+
 // 5 === '5' || 8 / 2 !== 5 && 4 + 6 === 11 || 9 === 8 + 1 && 'abc' !== 'ABC'
+false || true && false || true && true
+false || false || true
+true
 
 // true && false || 4 * 2 === 8 && 'hello' === 'hello' || 5 !== '5' && 3 < 5
+false || true && true || true && true
+false || true || true
+true
+
 // false && true || 'red' === 'blue' && 5 + 5 === 10 || 6 === '6' && 9 > 8
+false || false && true || false && true
+false || false || false
+false
 // 'dog' === 'dog' && 3 * 3 === 9 || false && 5 === 5 || 7 === '7'
+true && true || false && true || false
+true || false || false
+true
+
 // true || false && 4 * 4 === 16 || 'cat' !== 'dog' && 3 < 5 || 10 / 2 === 5
+true || false && true || true && false || true
+true || false || false || true
+true
+
 // false && true || 5 * 3 === 15 || 6 > 8 && 7 + 1 === 8 || 'test' === 'test'
+false || true || false && true || true
+false || true || false || true
+true
+
 // true && false || 8 / 2 === 4 && 3 + 2 === 5 || 9 !== 9 && 'green' === 'green'
+false || true && true || false && true
+false || true || false 
+true 
+console.log('apple' === 'apple' && 2 + 3 === 5 || false && true || 10 - 5 === 5 || 5 === '5');
+
 // false && 5 > 10 || 7 === '7' && 4 * 5 === 20 || true && false
+false && false || false && true || false
+false || false || false
+false
 // true && 'hello' === 'hello' || 9 * 2 === 18 && 6 + 2 === 8 || false && 7 > 3
+true && true || true && true || false & true 
+true || true || false 
+true
 // 'apple' === 'apple' && 2 + 3 === 5 || false && true || 10 - 5 === 5 || 5 === '5'
+true && true || false || true || false 
+true || false || true || false
+true
 
 // 'apple' === 'apple' && 3 + 4 === 7 || 6 * 2 !== 12 && 10 - 5 === 5 || 'Java' !== 'java'
 // true && true || false && true || true
