@@ -21,9 +21,9 @@
 // arr.shift()
 // arr.splice(1,2)
 // console.log(arr);
-let cities = ["Quetta", "Lahore", "Islamabad","Karachi","Gilgit"]
-console.log(cities);
-let newarry=cities.slice(1,3)
-console.log(newarry);
+// let cities = ["Quetta", "Lahore", "Islamabad","Karachi","Gilgit"]
+// console.log(cities);
+// let newarry=cities.slice(1,3)
+// console.log(newarry);
 
 // cities.splice(1,3)
