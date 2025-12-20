@@ -41,3 +41,9 @@
 
 // }
 
+let sentence = "Learning Javascript is fun and rewarding!";
+for(let i = 0; i < sentence.length; i++){
+    console.log(sentence[i]);
+if(sentence[i] === 'a'|| sentence[i] === 'e' || sentence[i] === 'i' || sentence[i] === 'o' || sentence[i] === 'u')
+    console.log("vowel:" , sentence[i]);    
+}
