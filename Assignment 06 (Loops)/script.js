@@ -1,6 +1,11 @@
 // 1. Create an array of fruits like ["apple", "banana", "cherry"] and use a loop to log each fruit
 // in the console.
 
+// let fruits = ["Apple", "Banana","Mango"]
+// for(let i=0; i<fruits.length;i++){
+//     console.log(fruits[i]);
+    
+// }
 // let fruits = ["apple", "banana", "cherry"];
 // for (let i = 0; i < fruits.length; i++) {
 //     console.log(fruits[i]);
@@ -29,3 +34,143 @@
 //     console.log(i);
 //     i--;
 // }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// let userinput = prompt("Enter a Number")
+// let howmanytimes = prompt("How many Times")
+// for (let i = 1;  i<= howmanytimes; i++) {
+//     console.log(userinput + "*" + i + "=" + userinput*i);
+//     ;
+    
+// }
+
+
+// for(let i = 1; i <= 5; i++){
+//     console.log('outer loop ===> ' , i);
+
+//     for(let j = 1; j <= 10; j++){
+//         console.log('inner loop ===> ' , j);
+//     }
+
+// }
+
+// const div = document.querySelector(".para")
+
+// for (let i = 0;  i<= 10; i++) {
+//     console.log("Ahsan",i);
+//     div.innerHTML="Ahsan",i
+    
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+for (let i = 1;  i<= 10; i++) {
+    console.log("Ahsan",i);
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
